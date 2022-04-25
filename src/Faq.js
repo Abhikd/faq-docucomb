@@ -2,7 +2,7 @@
 import { Accordion, AccordionDetails, AccordionSummary, Card, CardContent, CardHeader, Grid, Typography } from '@material-ui/core'
 import React from 'react'
 import "./Faq.css"
-import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+import { Link animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 
 function Faq() {
     return (
